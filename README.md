@@ -1,5 +1,5 @@
 
-![MasterHead](https://p1.pxfuel.com/preview/289/419/791/sunset-trees-nature-birds-landscape-tree.jpg)
+![MasterHead](https://www.freecodecamp.org/news/content/images/size/w2000/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)
 <h1 align="center">Hi 👋, I'm Umesh Giri</h1>
 <h3 align="center">A enthusiastic & passionate developer aims to Transforming Code into Innovation</h3>
 
