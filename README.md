@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **flutter, dart**
 
-- 💬 Ask me about **flutter, dart, photography**
+- 💬 Ask me about **flutter, dart &  sometimes photography**
 
-- 📫 How to reach me **umesh27439@gmail.com**
+- 📫 How to reach me **me.umeshgiri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
